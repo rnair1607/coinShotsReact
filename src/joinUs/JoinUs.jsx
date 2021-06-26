@@ -26,7 +26,6 @@ export default function JoinUs() {
                   href="https://wa.me/message/AHEE7YZH6N4ZN1"
                   className="pro-btn wa btn btn-lg"
                 >
-                  {/* <i className="fab fa-whatsapp"></i> */}
                   <FontAwesomeIcon icon={faWhatsapp} />
                   <span style={{ paddingLeft: "5px" }}>Whatsapp</span>
                 </a>
@@ -40,7 +39,6 @@ export default function JoinUs() {
                   href="https://t.me/coinshotsdaily"
                   className="pro-btn tg btn btn-lg"
                 >
-                  {/* <i className="fab fa-whatsapp"></i> */}
                   <FontAwesomeIcon icon={faTelegramPlane} />
                   <span style={{ paddingLeft: "5px" }}>Telegram</span>
                 </a>

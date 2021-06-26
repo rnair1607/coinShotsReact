@@ -1,5 +1,4 @@
 import React from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { FaBars, FaExclamationTriangle, FaChartLine } from "react-icons/fa";
 
 import "./info.css";
