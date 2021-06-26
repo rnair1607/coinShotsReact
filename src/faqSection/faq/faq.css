@@ -1,0 +1,20 @@
+.faq-answer {
+    color: #24292ebe;
+    margin: 10px;
+}
+
+.faq-question {
+    color: #24292ebe;
+    margin: 10px;
+}
+
+a.twitter {
+    color: #007bff !important;
+    text-decoration: none !important;
+    background-color: transparent !important;
+}
+
+a.twitter:hover {
+    color: #0056b3 !important;
+    text-decoration: underline !important;
+}

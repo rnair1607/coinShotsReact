@@ -1,0 +1,20 @@
+.faq-div {
+    margin-bottom: 2rem;
+}
+
+.faq {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.faq h1 {
+    color: #24292eb3;
+}
+
+.faq-section {
+    margin-top: 3rem;
+}
+
+.faq-holder {
+    text-align: start;
+}

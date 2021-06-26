@@ -53,3 +53,17 @@ section {
     width: 841.35px;
     height: 606.683px;
 }
+
+@media only screen and (max-width: 500px) {
+    .img-follow {
+        width: 20rem;
+        height: 15rem;
+    }
+}
+
+@media only screen and (max-width: 991px) and (min-width:768px) {
+    .img-follow {
+        width: 45rem;
+        height: 35rem;
+    }
+}
