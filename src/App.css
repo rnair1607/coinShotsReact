@@ -9,3 +9,18 @@ section.two {
     overflow-y: scroll;
     height: 100vh;
 }
+
+@media only screen and (max-width: 500px) {
+
+    section.one,
+    section.two {
+        padding-top: 0;
+        scroll-snap-align: none;
+    }
+
+    .app {
+        scroll-snap-type: none;
+        overflow-y: none;
+        height: 100vh;
+    }
+}
