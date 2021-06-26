@@ -4,6 +4,7 @@ footer {
     margin-top: 50px;
     background: rgb(54, 51, 51);
     line-height: 40px;
+    min-height: 4vh;
 }
 
 small {

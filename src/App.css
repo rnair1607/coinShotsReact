@@ -1,0 +1,11 @@
+section.one,
+section.two {
+    padding-top: 0;
+    scroll-snap-align: start;
+}
+
+.app {
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+}
