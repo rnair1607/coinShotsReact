@@ -1,0 +1,85 @@
+.main-text {
+    color: #e6e8ec;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 3.5rem;
+    margin-bottom: 100px;
+}
+
+@media only screen and (max-width: 1950px) {
+    .main-text {
+        font-size: 2.6em;
+    }
+}
+
+section {
+    padding-top: 9rem;
+}
+
+#desc {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: #e6e8ec;
+    white-space: pre-line;
+}
+
+.button-head {
+    color: #e6e8ec;
+    font-weight: 400;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+li .wa {
+    background-color: #00c75a;
+    min-width: 165px;
+}
+
+li .pro-btn {
+    border: none;
+    color: #e6e8ec;
+    margin: 2px;
+    width: 140px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.171);
+}
+
+ul {
+    list-style-type: none;
+}
+
+.connect-btn {
+    display: flex;
+    margin-top: 25px;
+    padding: 0px;
+}
+
+li .tg {
+    background-color: #0271a8;
+    width: 165px;
+}
+
+li .pro-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 10px rgba(50, 50, 93, 0.226), 0 1px 3px rgba(0, 0, 0, 0.08) !important;
+}
+
+.btn:hover {
+    color: #212529;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+.cta-info {
+    color: #e6e8ec;
+    display: inline;
+    margin-top: 10px;
+    max-width: 230px;
+    font-size: 0.9em;
+    opacity: 0.7;
+}

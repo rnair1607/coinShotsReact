@@ -1,0 +1,55 @@
+section {
+    padding-top: 9rem;
+}
+
+.header_container {
+    margin-top: -40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.follow_header {
+    font-family: "Montserrat", sans-serif;
+    color: #e6e8ec;
+    font-weight: 800;
+    font-size: 3em;
+}
+
+.social-icons .social-list-item a {
+    margin-bottom: 80px;
+    font-size: 4em;
+}
+
+.fa-facebook,
+.fa-instagram,
+.fa-linkedin-in,
+.fa-twitter {
+    text-shadow: 2px 2px #504AAF;
+    color: #fff;
+    transition: 0.7s;
+}
+
+.fa-linkedin-in:hover {
+    text-shadow: 3px 3px #fff;
+    color: #2777B5;
+}
+
+.fa-facebook:hover {
+    text-shadow: 3px 3px #fff;
+    color: #286BD9;
+}
+
+.fa-instagram:hover {
+    text-shadow: 3px 3px #fff;
+    color: #A72FBC;
+}
+
+.fa-twitter:hover {
+    text-shadow: 3px 3px #fff;
+    color: #38A1F2;
+}
+
+.img-follow {
+    width: 841.35px;
+    height: 606.683px;
+}

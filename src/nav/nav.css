@@ -1,0 +1,20 @@
+.nav-head {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-top: 20px;
+    padding: 0 15px !important;
+}
+
+#logo {
+    width: 80px;
+}
+
+img {
+    border-style: none;
+}
+
+.nav-head h2 {
+    color: #e6e8ec;
+    margin-left: 10px;
+}

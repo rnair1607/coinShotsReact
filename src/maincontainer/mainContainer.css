@@ -1,0 +1,10 @@
+.main-div {
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+}
+
+main {
+    min-height: 100vh;
+    background: linear-gradient(to left, #000000, #000000)
+}
